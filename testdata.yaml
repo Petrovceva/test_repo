@@ -1,0 +1,5 @@
+address: 'https://test-stand.gb.ru'
+driver_path: chrome
+sleep_time: 5
+login: 'GB2023090a5863'
+password: '18f73fdd23'
